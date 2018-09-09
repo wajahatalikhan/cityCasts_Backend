@@ -1,0 +1,15 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "myDb": {
+    "host": "mysqlinstance01.cgznisw3khtt.us-east-2.rds.amazonaws.com",
+    "port": 3306,
+    "database": "mySqlDb",
+    "password": "Fulda123",
+    "name": "myDb",
+    "user": "wajahatalikhan",
+    "connector": "mysql"
+  }
+}
